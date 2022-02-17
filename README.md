@@ -1,4 +1,4 @@
-
+![headshot](sql.jpg)
 Table of Contents
 
     About The Project
