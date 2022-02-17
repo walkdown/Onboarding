@@ -1,11 +1,4 @@
-# A little insight into Walkdown
-Just starting out. Looking to sharpen my skills
 
-## Career Passions
-Looking to work with SQL, Github, Linux and Servers for a forward thinking company
-
-## Hobbies
-Learning Github LoL!!!
 
 Table of Contents
 
